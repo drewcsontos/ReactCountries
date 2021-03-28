@@ -1,7 +1,7 @@
-# React Anecdotes Project
+# React Countries
 
-Go to https://drewcsontos.github.io/ReactAnecdotes/index.html to check out my React project.
+Go to https://drewcsontos.github.io/ReactCountries to check out my project.
 
-This was the first project I made in React. It lets you vote on different anecdotes and also displays random anecdotes. I didn't style it at all with css since I was focusing on learning React. 
+This website requests data from the api https://restcountries.eu to get a list of countries and data about them. It then lists them off and lets the user search for them.
 
 Made as an exercise from the course https://fullstackopen.com/en/.
